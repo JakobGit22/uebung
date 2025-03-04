@@ -1,5 +1,0 @@
-Hier soll eine Überschrift stehen, z.B.: "Überschrift".
-    Diese Zeile soll leer sein.
-    
-Hier soll die erste Zeile des Haupttextes stehen.
-    Diese Zeile soll leer sein.
