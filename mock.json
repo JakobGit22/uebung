@@ -4,10 +4,18 @@
         "vegetables":["eggplant","cucumber","lettuce","bell pepper","mushrooms"],
         "drinks":["sparkling water","coke","beer","wine","coffee","natural water"],
         "prices":["1.5€","2.0€","3.5","6.0","2.5","1.5"]
-    },
+            },
     "mountain":{
          "point":"Mount Everest",
          "volcano":"Ojos del Saldo",
          "glacier":"Khumbu Glacier"
-    }
+            },
+    "PriceHistory"{
+    "item":"DuroSport 5",
+    "manufacturer":"Prism",
+    "wholesale price":99.95,
+    "listprice":84,
+    "instock":true
+            },
+    {}
 }
