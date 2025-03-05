@@ -1,0 +1,36 @@
+[
+    {
+    "name": "Jakob",
+    "Alter": 27,
+    "Adresse":{
+        "Straße": "Warschauer Straße",
+        "Hausnummer": "75A",
+        "Postleitzahl": 10243,
+        "Wohnort": "Berlin"
+            },
+    "Hobbies":[
+        "Sport",
+        "Freunde treffen",
+        "Lesen",
+        "Kochen",
+        "Basketball spielen"
+            ],
+    "Kennt_JSON": false
+    },
+    {
+        "name": "Paul",
+        "Alter": 25,
+        "Adresse":{
+            "Straße": "Warschauer Straße",
+            "Hausnummer": "75A",
+            "Postleitzahl": 10243,
+            "Wohnort": "Berlin"
+                },
+        "Hobbies":[
+            "Musik machen",
+            "Volleyball spielen",
+            "Kochen"
+                ],
+        "Kennt_JSON": true
+    }
+]
