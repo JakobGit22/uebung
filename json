@@ -1,7 +1,7 @@
 {
     "Speisekarte": {
-        "Vorspeisen": ["Salat","Kleine Käseplatte"],
-        "Hauptspeisen":["Veganes Gyros","Allgäuer Käsespätzle","Tagliatelle mit Lachs"],
+        "Vorspeise": ["Salat","Kleine Käseplatte"],
+        "Hauptspeise":["Veganes Gyros","Allgäuer Käsespätzle","Tagliatelle mit Lachs"],
         "Nachtisch":["Eis - verschiedene Sorten","Kuchen - täglich wechselnde Auswahl","Kaiserschmarn"]
     }
 }
